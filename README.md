@@ -130,9 +130,10 @@ Please read: **CONTRIBUTING.md**
 ## 🛡 Security
 
 See: **SECURITY.md**  
-Email vulnerabilities to:
+## ✉️ Contact
 
-📧 **dineshchandra962@gmail.com**
+**Dinesh Chandra — TheComputationalCore**  
+- GitHub: https://github.com/TheComputationalCore 
 
 ---
 
