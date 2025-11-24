@@ -93,7 +93,7 @@ Your code should pass both before submission.
 If you discover a security issue, **do not** open a public issue.  
 Instead, email:
 
-📧 **thecomputationalcore@gmail.com**
+📧 **dineshchandra962@gmail.com**
 
 We will respond promptly.
 
