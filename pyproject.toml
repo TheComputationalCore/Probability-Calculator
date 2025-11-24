@@ -1,0 +1,25 @@
+[project]
+name = "probability-calculator"
+version = "1.0.0"
+description = "A Monte-Carlo based probability calculator for drawing colored balls from a hat."
+authors = [
+    { name = "TheComputationalCore" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.8"
+
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/TheComputationalCore/Probability-Calculator"
+Documentation = "https://thecomputationalcore.github.io/Probability-Calculator"
+Source = "https://github.com/TheComputationalCore/Probability-Calculator"
+Issues = "https://github.com/TheComputationalCore/Probability-Calculator/issues"
+
+[project.scripts]
+probability-calculator = "probability_calculator.cli:main"
+
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
