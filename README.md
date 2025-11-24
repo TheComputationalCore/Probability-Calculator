@@ -130,10 +130,7 @@ Please read: **CONTRIBUTING.md**
 ## 🛡 Security
 
 See: **SECURITY.md**  
-## ✉️ Contact
 
-**Dinesh Chandra — TheComputationalCore**  
-- GitHub: https://github.com/TheComputationalCore 
 
 ---
 
